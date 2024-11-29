@@ -6,6 +6,24 @@ course video recording:
 [Youtube livestream recording](https://www.youtube.com/watch?v=kpRyiJUUFxY&list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
 
 
+## Day 1 Foundational Large Language Models & Text Generation
+Complete the Intro Unit - “Foundational Large Language Models & Text Generation”, which is:
+
+➡️ [Optional] Listen to the [summary podcast episode](https://www.youtube.com/watch?v=mQDlCZZsOyo&t=0s) for this unit (created by NotebookLM, https://notebooklm.google.com/).
+
+➡️ Read the “Foundational Large Language Models & Text Generation” [whitepaper](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation)
+
+Complete Unit 1 - “Prompt Engineering”, which is:
+
+➡️ [Optional] Listen to the summary podcast [episode](https://www.youtube.com/watch?v=F_hJ2Ey4BNc) for this unit (created by NotebookLM).
+
+➡️ Read the “Prompt Engineering” [whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering)
+
+➡️ Complete this code lab on Kaggle where you’ll learn prompting fundamentals. Make sure you phone verify (https://www.kaggle.com/settings) your account before starting, it's necessary for the code labs.
+
+[Day 1 - Prompting](https://www.kaggle.com/code/markishere/day-1-prompting)
+
+
 ## Day 2
 Resources mentioned in today's livestream:
 Jinhyuk Lee's Google Scholar [profile](https://scholar.google.com/citations?user=YWm_zVcAAAAJ&hl=en)
