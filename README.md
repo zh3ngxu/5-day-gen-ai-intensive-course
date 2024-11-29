@@ -54,3 +54,26 @@ Explore text similarity with embeddings
 Build a neural classification network with Keras using embeddings 
 
 - [Day 2 - Classifying embeddings with Keras](https://www.kaggle.com/code/markishere/day-2-classifying-embeddings-with-keras)
+
+## day 3 Generative AI Agents
+
+Agent building frameworks:  
+https://www.langchain.com/langgraph
+https://firebase.google.com/docs/genkit
+https://github.com/breadboard-ai/brea...
+ 
+What is RAG? high level page from GCP / Vertex:  
+https://cloud.google.com/use-cases/re...
+
+
+Complete Unit 3: “Generative AI Agents”, which is:
+➡️ [Optional] Listen to the summary podcast [episode](https://www.youtube.com/watch?v=H4gZd4BCrDQ) for this unit (created by NotebookLM).
+
+➡️ Read the [“Generative AI Agents”](https://www.kaggle.com/whitepaper-agents) whitepaper
+
+➡️ Complete these code labs on Kaggle:
+- [Talk to a database with function calling](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api)
+
+- [Day 3 - Building an agent with LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
+
+
