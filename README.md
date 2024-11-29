@@ -24,7 +24,7 @@ Complete Unit 1 - “Prompt Engineering”, which is:
 [Day 1 - Prompting](https://www.kaggle.com/code/markishere/day-1-prompting)
 
 
-## Day 2
+## Day 2 Embeddings and Vector Stores/Databases
 Resources mentioned in today's livestream:
 Jinhyuk Lee's Google Scholar [profile](https://scholar.google.com/citations?user=YWm_zVcAAAAJ&hl=en)
 
@@ -76,4 +76,21 @@ Complete Unit 3: “Generative AI Agents”, which is:
 
 - [Day 3 - Building an agent with LangGraph](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/)
 
+## day 4 Domain-Specific LLMs
+Complete Unit 4: “Domain-Specific LLMs”, which is:
+➡️  [Optional] Listen to the summary podcast [episode](https://www.youtube.com/watch?v=b1a4ZOQ8XdI) for this unit (created by NotebookLM).
 
+➡️  Read the [Solving Domain-Specific Problems Using LLMs](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms) whitepaper
+
+➡️  Complete these code labs on Kaggle:
+[Optional] Use Google Search data in generation. (Note: Grounding with Google Search has been released as a limited launch and is not available in all locations. The EEA, UK, and CH regions will be supported at a later date)
+- [Day 4 - Google Search grounding](https://www.kaggle.com/code/markishere/day-4-google-search-grounding)
+- [Day 4 - Fine tuning a custom model](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model)
+
+
+## day 5 MLOps for Generative AI
+➡️ [Optional] Listen to the summary podcast [episode](https://www.youtube.com/watch?v=k9S6IhiUUj4) for this unit (created by NotebookLM, https://notebooklm.google/).
+
+➡️ Read the “MLOps for Generative AI” [whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops)
+
+➡️ No code lab for today! We will do a code walkthrough and live demo of goo.gle/e2e-gen-ai-app-starter-pack [link](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
